@@ -1,0 +1,860 @@
+
+Piece number: 0
+Precision: 1.0
+Recall: 0.956081081081081
+F1-measure: 0.9775474956822107
+
+Piece number: 1
+Precision: 1.0
+Recall: 1.0
+F1-measure: 1.0
+
+Piece number: 2
+Precision: 1.0
+Recall: 1.0
+F1-measure: 1.0
+
+Piece number: 3
+Precision: 1.0
+Recall: 1.0
+F1-measure: 1.0
+
+Piece number: 4
+Precision: 1.0
+Recall: 0.8035714285714286
+F1-measure: 0.8910891089108911
+
+Piece number: 5
+Precision: 1.0
+Recall: 0.15454545454545454
+F1-measure: 0.26771653543307083
+
+Piece number: 6
+Precision: 1.0
+Recall: 0.8919033488766427
+F1-measure: 0.9428635447008739
+
+Piece number: 7
+Precision: 1.0
+Recall: 0.09585121602288985
+F1-measure: 0.17493472584856395
+
+Piece number: 8
+Precision: 1.0
+Recall: 0.9217877094972067
+F1-measure: 0.9593023255813954
+
+Piece number: 9
+Precision: 1.0
+Recall: 0.21371610845295055
+F1-measure: 0.3521681997371879
+
+Piece number: 10
+Precision: 1.0
+Recall: 0.09021922428330523
+F1-measure: 0.16550657385924206
+
+Piece number: 11
+Precision: 0.9904306220095693
+Recall: 0.12889165628891655
+F1-measure: 0.22809917355371898
+
+Piece number: 12
+Precision: 1.0
+Recall: 0.10714285714285714
+F1-measure: 0.19354838709677416
+
+Piece number: 13
+Precision: 0.9795918367346939
+Recall: 0.11009174311926606
+F1-measure: 0.1979381443298969
+
+Piece number: 14
+Precision: 0.9984
+Recall: 0.636734693877551
+F1-measure: 0.7775700934579439
+
+Piece number: 15
+Precision: 0.9917061611374408
+Recall: 0.6127379209370425
+F1-measure: 0.7574660633484165
+
+Piece number: 16
+Precision: 1.0
+Recall: 0.08035714285714286
+F1-measure: 0.14876033057851243
+
+Piece number: 17
+Precision: 1.0
+Recall: 0.925498426023085
+F1-measure: 0.9613079019073569
+
+Piece number: 18
+Precision: 1.0
+Recall: 0.09038461538461538
+F1-measure: 0.16578483245149914
+
+Piece number: 19
+Precision: 1.0
+Recall: 0.1532976827094474
+F1-measure: 0.2658423493044822
+
+Piece number: 20
+Precision: 1.0
+Recall: 0.7416107382550335
+F1-measure: 0.8516377649325626
+
+Piece number: 21
+Precision: 1.0
+Recall: 0.08040770101925254
+F1-measure: 0.14884696016771487
+
+Piece number: 22
+Precision: 0.9890510948905109
+Recall: 0.811377245508982
+F1-measure: 0.8914473684210527
+
+Piece number: 23
+Precision: 1.0
+Recall: 0.8024193548387096
+F1-measure: 0.8903803131991052
+
+Piece number: 24
+Precision: 1.0
+Recall: 0.9217081850533808
+F1-measure: 0.9592592592592593
+
+Piece number: 25
+Precision: 1.0
+Recall: 0.2585812356979405
+F1-measure: 0.41090909090909095
+
+Piece number: 26
+Precision: 1.0
+Recall: 0.2018716577540107
+F1-measure: 0.3359288097886541
+
+Piece number: 27
+Precision: 1.0
+Recall: 0.7134831460674157
+F1-measure: 0.8327868852459017
+
+Piece number: 28
+Precision: 1.0
+Recall: 0.9776876267748479
+F1-measure: 0.9887179487179487
+
+Piece number: 29
+Precision: 1.0
+Recall: 0.9494949494949495
+F1-measure: 0.9740932642487047
+
+Piece number: 30
+Precision: 1.0
+Recall: 0.940677966101695
+F1-measure: 0.9694323144104803
+
+Piece number: 31
+Precision: 1.0
+Recall: 0.05925925925925926
+F1-measure: 0.11188811188811189
+
+Piece number: 32
+Precision: 1.0
+Recall: 0.6399521531100478
+F1-measure: 0.7804522246535376
+
+Piece number: 33
+Precision: 1.0
+Recall: 0.5912162162162162
+F1-measure: 0.743099787685775
+
+Piece number: 34
+Precision: 1.0
+Recall: 0.7827715355805244
+F1-measure: 0.8781512605042018
+
+Piece number: 35
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-measure: 0.9411764705882353
+
+Piece number: 36
+Precision: 0.9565217391304348
+Recall: 0.21890547263681592
+F1-measure: 0.3562753036437247
+
+Piece number: 37
+Precision: 0.8048780487804879
+Recall: 0.09620991253644315
+F1-measure: 0.171875
+
+Piece number: 38
+Precision: 0.8787878787878788
+Recall: 0.12236286919831224
+F1-measure: 0.21481481481481485
+
+Piece number: 39
+Precision: 0.9287925696594427
+Recall: 0.9836065573770492
+F1-measure: 0.9554140127388535
+
+Piece number: 40
+Precision: 1.0
+Recall: 0.2033898305084746
+F1-measure: 0.33802816901408456
+
+Piece number: 41
+Precision: 0.917098445595855
+Recall: 0.9779005524861878
+F1-measure: 0.946524064171123
+
+Piece number: 42
+Precision: 0.75
+Recall: 0.10344827586206896
+F1-measure: 0.18181818181818182
+
+Piece number: 43
+Precision: 1.0
+Recall: 0.2072072072072072
+F1-measure: 0.3432835820895522
+
+Piece number: 44
+Precision: 0.9988623435722411
+Recall: 0.5549936788874842
+F1-measure: 0.7135310849248272
+
+Piece number: 45
+Precision: 0.9818181818181818
+Recall: 0.14594594594594595
+F1-measure: 0.25411764705882356
+
+Piece number: 46
+Precision: 0.9983079526226735
+Recall: 0.5329719963866305
+F1-measure: 0.6949352179034157
+
+Piece number: 47
+Precision: 0.998911860718172
+Recall: 0.9329268292682927
+F1-measure: 0.9647924330005255
+
+Piece number: 48
+Precision: 0.9977011494252873
+Recall: 0.8173258003766478
+F1-measure: 0.8985507246376812
+
+Piece number: 49
+Precision: 0.9970059880239521
+Recall: 0.3391038696537678
+F1-measure: 0.5060790273556232
+
+Piece number: 50
+Precision: 0.9956236323851203
+Recall: 0.6156968876860622
+F1-measure: 0.7608695652173912
+
+Piece number: 51
+Precision: 0.9973045822102425
+Recall: 0.34291010194624655
+F1-measure: 0.5103448275862069
+
+Piece number: 52
+Precision: 0.6923076923076923
+Recall: 0.026865671641791045
+F1-measure: 0.05172413793103449
+
+Piece number: 53
+Precision: 1.0
+Recall: 0.15070093457943926
+F1-measure: 0.26192893401015227
+
+Piece number: 54
+Precision: 1.0
+Recall: 0.10465116279069768
+F1-measure: 0.18947368421052632
+
+Piece number: 55
+Precision: 1.0
+Recall: 0.17961654894046417
+F1-measure: 0.3045337895637297
+
+Piece number: 56
+Precision: 0.9090909090909091
+Recall: 0.04040404040404041
+F1-measure: 0.07736943907156672
+
+Piece number: 57
+Precision: 0.9982300884955753
+Recall: 0.6197802197802198
+F1-measure: 0.7647457627118645
+
+Piece number: 58
+Precision: 0.9991055456171736
+Recall: 0.5922587486744433
+F1-measure: 0.7436750998668442
+
+Piece number: 59
+Precision: 0.9642857142857143
+Recall: 0.1125
+F1-measure: 0.20149253731343286
+
+Piece number: 60
+Precision: 1.0
+Recall: 0.18628912071535023
+F1-measure: 0.31407035175879394
+
+Piece number: 61
+Precision: 1.0
+Recall: 1.0
+F1-measure: 1.0
+
+Piece number: 62
+Precision: 1.0
+Recall: 0.9382022471910112
+F1-measure: 0.9681159420289854
+
+Piece number: 63
+Precision: 1.0
+Recall: 0.725
+F1-measure: 0.8405797101449275
+
+Piece number: 64
+Precision: 0.7735849056603774
+Recall: 0.12202380952380952
+F1-measure: 0.21079691516709512
+
+Piece number: 65
+Precision: 0.8108108108108109
+Recall: 0.24793388429752067
+F1-measure: 0.379746835443038
+
+Piece number: 66
+Precision: 0.6774193548387096
+Recall: 0.12727272727272726
+F1-measure: 0.21428571428571425
+
+Piece number: 67
+Precision: 0.631578947368421
+Recall: 0.09836065573770492
+F1-measure: 0.1702127659574468
+
+Piece number: 68
+Precision: 0.7575757575757576
+Recall: 0.19157088122605365
+F1-measure: 0.30581039755351686
+
+Piece number: 69
+Precision: 0.84375
+Recall: 0.13846153846153847
+F1-measure: 0.2378854625550661
+
+Piece number: 70
+Precision: 0.8913043478260869
+Recall: 0.1680327868852459
+F1-measure: 0.2827586206896552
+
+Piece number: 71
+Precision: 0.6060606060606061
+Recall: 0.0975609756097561
+F1-measure: 0.16806722689075632
+
+Piece number: 72
+Precision: 0.7435897435897436
+Recall: 0.10069444444444445
+F1-measure: 0.17737003058103978
+
+Piece number: 73
+Precision: 1.0
+Recall: 0.15714285714285714
+F1-measure: 0.271604938271605
+
+Piece number: 74
+Precision: 0.9230769230769231
+Recall: 0.08247422680412371
+F1-measure: 0.15141955835962148
+
+Piece number: 75
+Precision: 0.25
+Recall: 0.05
+F1-measure: 0.08333333333333334
+
+Piece number: 76
+Precision: 0.7222222222222222
+Recall: 0.08843537414965986
+F1-measure: 0.15757575757575756
+
+Piece number: 77
+Precision: 0.9411764705882353
+Recall: 0.09090909090909091
+F1-measure: 0.16580310880829016
+
+Piece number: 78
+Precision: 0.75
+Recall: 0.140625
+F1-measure: 0.23684210526315788
+
+Piece number: 79
+Precision: 0.8846153846153846
+Recall: 0.17424242424242425
+F1-measure: 0.2911392405063291
+
+Piece number: 80
+Precision: 0.8333333333333334
+Recall: 0.12345679012345678
+F1-measure: 0.21505376344086022
+
+Piece number: 81
+Precision: 0.9166666666666666
+Recall: 0.15172413793103448
+F1-measure: 0.2603550295857988
+
+Piece number: 82
+Precision: 0.9064327485380117
+Recall: 0.96875
+F1-measure: 0.9365558912386707
+
+Piece number: 83
+Precision: 0.36363636363636365
+Recall: 0.04790419161676647
+F1-measure: 0.08465608465608467
+
+Piece number: 84
+Precision: 1.0
+Recall: 0.3262411347517731
+F1-measure: 0.4919786096256685
+
+Piece number: 85
+Precision: 0.9036144578313253
+Recall: 1.0
+F1-measure: 0.9493670886075949
+
+Piece number: 86
+Precision: 0.8823529411764706
+Recall: 0.046875
+F1-measure: 0.08902077151335312
+
+Piece number: 87
+Precision: 0.96875
+Recall: 0.4043478260869565
+F1-measure: 0.5705521472392637
+
+Piece number: 88
+Precision: 0.9347826086956522
+Recall: 0.12044817927170869
+F1-measure: 0.21339950372208438
+
+Piece number: 89
+Precision: 0.8536585365853658
+Recall: 0.12962962962962962
+F1-measure: 0.22508038585209
+
+Piece number: 90
+Precision: 0.8571428571428571
+Recall: 0.08035714285714286
+F1-measure: 0.1469387755102041
+
+Piece number: 91
+Precision: 0.3333333333333333
+Recall: 0.203125
+F1-measure: 0.2524271844660194
+
+Piece number: 92
+Precision: 0.8095238095238095
+Recall: 0.10397553516819572
+F1-measure: 0.1842818428184282
+
+Piece number: 93
+Precision: 1.0
+Recall: 0.08
+F1-measure: 0.14814814814814814
+
+Piece number: 94
+Precision: 0.7894736842105263
+Recall: 0.10273972602739725
+F1-measure: 0.18181818181818182
+
+Piece number: 95
+Precision: 0.9411764705882353
+Recall: 0.05860805860805861
+F1-measure: 0.1103448275862069
+
+Piece number: 96
+Precision: 0.9444444444444444
+Recall: 0.0918918918918919
+F1-measure: 0.16748768472906406
+
+Piece number: 97
+Precision: 1.0
+Recall: 0.05063291139240506
+F1-measure: 0.09638554216867469
+
+Piece number: 98
+Precision: 1.0
+Recall: 0.15810276679841898
+F1-measure: 0.27303754266211605
+
+Piece number: 99
+Precision: 1.0
+Recall: 0.10980392156862745
+F1-measure: 0.1978798586572438
+
+Piece number: 100
+Precision: 0.9927007299270073
+Recall: 1.0
+F1-measure: 0.9963369963369962
+
+Piece number: 101
+Precision: 0.9594594594594594
+Recall: 0.8160919540229885
+F1-measure: 0.8819875776397516
+
+Piece number: 102
+Precision: 0.45454545454545453
+Recall: 0.078125
+F1-measure: 0.1333333333333333
+
+Piece number: 103
+Precision: 0.9781420765027322
+Recall: 1.0
+F1-measure: 0.988950276243094
+
+Piece number: 104
+Precision: 0.965
+Recall: 0.8464912280701754
+F1-measure: 0.9018691588785046
+
+Piece number: 105
+Precision: 0.9230769230769231
+Recall: 0.096
+F1-measure: 0.17391304347826086
+
+Piece number: 106
+Precision: 0.9
+Recall: 0.16071428571428573
+F1-measure: 0.27272727272727276
+
+Piece number: 107
+Precision: 1.0
+Recall: 0.1774193548387097
+F1-measure: 0.3013698630136986
+
+Piece number: 108
+Precision: 0.9214285714285714
+Recall: 0.9148936170212766
+F1-measure: 0.9181494661921707
+
+Piece number: 109
+Precision: 0.9545454545454546
+Recall: 0.1346153846153846
+F1-measure: 0.23595505617977527
+
+Piece number: 110
+Precision: 0.8686868686868687
+Recall: 0.9772727272727273
+F1-measure: 0.9197860962566845
+
+Piece number: 111
+Precision: 0.6363636363636364
+Recall: 0.10144927536231885
+F1-measure: 0.17500000000000002
+
+Piece number: 112
+Precision: 1.0
+Recall: 0.7583436341161929
+F1-measure: 0.8625659050966609
+
+Piece number: 113
+Precision: 0.75
+Recall: 0.08391608391608392
+F1-measure: 0.1509433962264151
+
+Piece number: 114
+Precision: 0.916030534351145
+Recall: 0.916030534351145
+F1-measure: 0.916030534351145
+
+Piece number: 115
+Precision: 0.9047619047619048
+Recall: 0.15447154471544716
+F1-measure: 0.2638888888888889
+
+Piece number: 116
+Precision: 0.7692307692307693
+Recall: 0.11764705882352941
+F1-measure: 0.2040816326530612
+
+Piece number: 117
+Precision: 0.967741935483871
+Recall: 0.1485148514851485
+F1-measure: 0.2575107296137339
+
+Piece number: 118
+Precision: 0.5
+Recall: 0.1111111111111111
+F1-measure: 0.1818181818181818
+
+Piece number: 119
+Precision: 0.5882352941176471
+Recall: 0.15384615384615385
+F1-measure: 0.24390243902439027
+
+Piece number: 120
+Precision: 0.8
+Recall: 0.13333333333333333
+F1-measure: 0.2285714285714286
+
+Piece number: 121
+Precision: 0.8333333333333334
+Recall: 0.09090909090909091
+F1-measure: 0.16393442622950818
+
+Piece number: 122
+Precision: 1.0
+Recall: 0.21568627450980393
+F1-measure: 0.3548387096774193
+
+Piece number: 123
+Precision: 0.8461538461538461
+Recall: 0.19298245614035087
+F1-measure: 0.3142857142857142
+
+Piece number: 124
+Precision: 0.8
+Recall: 0.2781456953642384
+F1-measure: 0.4127764127764128
+
+Piece number: 125
+Precision: 0.8571428571428571
+Recall: 0.24242424242424243
+F1-measure: 0.37795275590551186
+
+Piece number: 126
+Precision: 0.42424242424242425
+Recall: 0.14893617021276595
+F1-measure: 0.22047244094488191
+
+Piece number: 127
+Precision: 0.9553903345724907
+Recall: 0.9589552238805971
+F1-measure: 0.957169459962756
+
+Piece number: 128
+Precision: 0.8181818181818182
+Recall: 0.14516129032258066
+F1-measure: 0.24657534246575347
+
+Piece number: 129
+Precision: 0.5
+Recall: 0.11494252873563218
+F1-measure: 0.18691588785046728
+
+Piece number: 130
+Precision: 0.9666666666666667
+Recall: 1.0
+F1-measure: 0.983050847457627
+
+Piece number: 131
+Precision: 0.8407079646017699
+Recall: 1.0
+F1-measure: 0.9134615384615384
+
+Piece number: 132
+Precision: 0.525
+Recall: 0.3387096774193548
+F1-measure: 0.4117647058823529
+
+Piece number: 133
+Precision: 0.8166666666666667
+Recall: 0.44144144144144143
+F1-measure: 0.5730994152046783
+
+Piece number: 134
+Precision: 0.92
+Recall: 0.9387755102040817
+F1-measure: 0.9292929292929293
+
+Piece number: 135
+Precision: 0.0
+Recall: 0.0
+F1-measure: 0.0
+
+Piece number: 136
+Precision: 0.5714285714285714
+Recall: 0.05263157894736842
+F1-measure: 0.0963855421686747
+
+Piece number: 137
+Precision: 1.0
+Recall: 0.24444444444444444
+F1-measure: 0.39285714285714285
+
+Piece number: 138
+Precision: 0.9393939393939394
+Recall: 0.11787072243346007
+F1-measure: 0.20945945945945943
+
+Piece number: 139
+Precision: 0.9166666666666666
+Recall: 0.0773286467486819
+F1-measure: 0.14262560777957858
+
+Piece number: 140
+Precision: 1.0
+Recall: 0.7326388888888888
+F1-measure: 0.845691382765531
+
+Piece number: 141
+Precision: 0.72
+Recall: 0.11920529801324503
+F1-measure: 0.20454545454545456
+
+Piece number: 142
+Precision: 1.0
+Recall: 0.04961089494163424
+F1-measure: 0.09453197405004633
+
+Piece number: 143
+Precision: 1.0
+Recall: 0.12037037037037036
+F1-measure: 0.21487603305785122
+
+Piece number: 144
+Precision: 0.4
+Recall: 0.024096385542168676
+F1-measure: 0.045454545454545456
+
+Piece number: 145
+Precision: 0.38095238095238093
+Recall: 0.14285714285714285
+F1-measure: 0.20779220779220778
+
+Piece number: 146
+Precision: 0.7647058823529411
+Recall: 0.19402985074626866
+F1-measure: 0.30952380952380953
+
+Piece number: 147
+Precision: 0.9803921568627451
+Recall: 0.12224938875305623
+F1-measure: 0.2173913043478261
+
+Piece number: 148
+Precision: 1.0
+Recall: 0.09724473257698542
+F1-measure: 0.1772525849335303
+
+Piece number: 149
+Precision: 1.0
+Recall: 0.059782608695652176
+F1-measure: 0.11282051282051284
+
+Piece number: 150
+Precision: 0.9914285714285714
+Recall: 0.8504901960784313
+F1-measure: 0.9155672823218998
+
+Piece number: 151
+Precision: 0.9985443959243085
+Recall: 0.9333333333333333
+F1-measure: 0.9648382559774965
+
+Piece number: 152
+Precision: 0.9915254237288136
+Recall: 0.5441860465116279
+F1-measure: 0.7027027027027027
+
+Piece number: 153
+Precision: 0.9948717948717949
+Recall: 0.9897959183673469
+F1-measure: 0.9923273657289001
+
+Piece number: 154
+Precision: 0.9887429643527205
+Recall: 1.0
+F1-measure: 0.9943396226415094
+
+Piece number: 155
+Precision: 0.9982668977469671
+Recall: 0.9290322580645162
+F1-measure: 0.962406015037594
+
+Piece number: 156
+Precision: 0.9871794871794872
+Recall: 0.9166666666666666
+F1-measure: 0.9506172839506173
+
+Piece number: 157
+Precision: 0.9956331877729258
+Recall: 0.95
+F1-measure: 0.9722814498933903
+
+Piece number: 158
+Precision: 0.9945054945054945
+Recall: 0.9427083333333334
+F1-measure: 0.9679144385026738
+
+Piece number: 159
+Precision: 0.9971671388101983
+Recall: 0.6153846153846154
+F1-measure: 0.7610810810810811
+
+Piece number: 160
+Precision: 1.0
+Recall: 0.3425196850393701
+F1-measure: 0.5102639296187683
+
+Piece number: 161
+Precision: 0.9285714285714286
+Recall: 0.11818181818181818
+F1-measure: 0.2096774193548387
+
+Piece number: 162
+Precision: 0.9946808510638298
+Recall: 0.656140350877193
+F1-measure: 0.7906976744186047
+
+Piece number: 163
+Precision: 0.9967105263157895
+Recall: 0.9351851851851852
+F1-measure: 0.964968152866242
+
+Piece number: 164
+Precision: 0.8
+Recall: 0.042328042328042326
+F1-measure: 0.08040201005025126
+
+Piece number: 165
+Precision: 0.9959349593495935
+Recall: 0.6094527363184079
+F1-measure: 0.7561728395061729
+
+Piece number: 166
+Precision: 0.5454545454545454
+Recall: 0.02830188679245283
+F1-measure: 0.05381165919282511
+
+Piece number: 167
+Precision: 0.993006993006993
+Recall: 0.31004366812227074
+F1-measure: 0.47254575707154745
+
+Piece number: 168
+Precision: 0.8461538461538461
+Recall: 0.23404255319148937
+F1-measure: 0.36666666666666675
+
+Piece number: 169
+Precision: 0.9961538461538462
+Recall: 0.886986301369863
+F1-measure: 0.9384057971014492
+
+Piece number: 170
+Precision: 1.0
+Recall: 0.893223819301848
+F1-measure: 0.9436008676789588
+
+Piece number: 171
+Precision: 0.9859154929577465
+Recall: 0.9655172413793104
+F1-measure: 0.975609756097561

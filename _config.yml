@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ancientchineseinstrumentalists.jpg/217px-Ancientchineseinstrumentalists.jpg
+show_downloads: true
+
+menu_title: "MENU"
+menu:
+  - title: "Home"
+    url: /
+  - title: "Results"
+    url: /results/  
+  - title: "Dataset"
+    url: /data/
+  - title: "Inspection"
+    url: /inspection/

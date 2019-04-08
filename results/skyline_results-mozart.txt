@@ -1,0 +1,234 @@
+Using data path: data/solo-accompaniment-dataset/mozart
+Testing with notelists...
+__________________________
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv279_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv279_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv279_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv280_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv280_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv280_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv281_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv281_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv281_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv282_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv282_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv282_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv283_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv283_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv283_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv284_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv284_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv284_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv330_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv330_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv331_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv331_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv331_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv332_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv332_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv332_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv333_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv333_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv333_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv457_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv457_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv457_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv475_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv475_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv475_3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv533_1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv533_2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/mozart/kv533_3.pyc.bz
+Piece number: 0
+Precision: 0.7199191102123357
+Recall: 0.9985974754558204
+F1-measure: 0.8366627497062279
+
+Piece number: 1
+Precision: 0.6561181434599156
+Recall: 0.9888712241653418
+F1-measure: 0.7888395688015218
+
+Piece number: 2
+Precision: 0.7641509433962265
+Recall: 0.9885139985642498
+F1-measure: 0.8619718309859156
+
+Piece number: 3
+Precision: 0.81068524970964
+Recall: 0.9957203994293866
+F1-measure: 0.8937259923175416
+
+Piece number: 4
+Precision: 0.4823196605374823
+Recall: 0.9970760233918129
+F1-measure: 0.650142993326978
+
+Piece number: 5
+Precision: 0.8209142141515341
+Recall: 0.9992378048780488
+F1-measure: 0.9013406668958405
+
+Piece number: 6
+Precision: 0.7023153252480706
+Recall: 0.9922118380062306
+F1-measure: 0.8224661071659136
+
+Piece number: 7
+Precision: 0.6216494845360825
+Recall: 0.9983443708609272
+F1-measure: 0.7662007623888183
+
+Piece number: 8
+Precision: 0.7571929824561403
+Recall: 0.9990740740740741
+F1-measure: 0.8614770459081836
+
+Piece number: 9
+Precision: 0.7178175618073316
+Recall: 0.9988137603795967
+F1-measure: 0.8353174603174603
+
+Piece number: 10
+Precision: 0.847
+Recall: 1.0
+F1-measure: 0.9171629669734704
+
+Piece number: 11
+Precision: 0.701039168665068
+Recall: 0.9988610478359908
+F1-measure: 0.823860967590418
+
+Piece number: 12
+Precision: 0.8208651399491094
+Recall: 0.9993804213135068
+F1-measure: 0.9013690975132718
+
+Piece number: 13
+Precision: 0.6804451510333863
+Recall: 0.9988331388564761
+F1-measure: 0.8094562647754138
+
+Piece number: 14
+Precision: 0.7624671916010499
+Recall: 0.9587458745874587
+F1-measure: 0.8494152046783626
+
+Piece number: 15
+Precision: 0.7403669724770642
+Recall: 0.9817518248175182
+F1-measure: 0.8441422594142259
+
+Piece number: 16
+Precision: 0.775626423690205
+Recall: 0.9941605839416059
+F1-measure: 0.8714011516314779
+
+Piece number: 17
+Precision: 0.6464558342420937
+Recall: 0.946360153256705
+F1-measure: 0.7681741609433718
+
+Piece number: 18
+Precision: 0.8124406457739791
+Recall: 0.9959254947613504
+F1-measure: 0.8948744769874477
+
+Piece number: 19
+Precision: 0.7164480322906155
+Recall: 0.9943977591036415
+F1-measure: 0.8328445747800587
+
+Piece number: 20
+Precision: 0.7493502743286168
+Recall: 0.9996147919876733
+F1-measure: 0.8565769929031193
+
+Piece number: 21
+Precision: 0.818241469816273
+Recall: 1.0
+F1-measure: 0.9000360880548539
+
+Piece number: 22
+Precision: 0.90056134723336
+Recall: 0.9991103202846975
+F1-measure: 0.9472796288485871
+
+Piece number: 23
+Precision: 0.7651556526488258
+Recall: 0.9978632478632479
+F1-measure: 0.8661514683153014
+
+Piece number: 24
+Precision: 0.6458923512747875
+Recall: 0.9559748427672956
+F1-measure: 0.7709213863060016
+
+Piece number: 25
+Precision: 0.864336715520481
+Recall: 0.9991311902693311
+F1-measure: 0.926858754785412
+
+Piece number: 26
+Precision: 0.7818608287724785
+Recall: 0.9995002498750625
+F1-measure: 0.877385391533231
+
+Piece number: 27
+Precision: 0.7192982456140351
+Recall: 0.9975669099756691
+F1-measure: 0.835881753312946
+
+Piece number: 28
+Precision: 0.8311275807305453
+Recall: 0.9880427942101951
+F1-measure: 0.9028177113283496
+
+Piece number: 29
+Precision: 0.7038345105953582
+Recall: 0.9647302904564315
+F1-measure: 0.8138856476079346
+
+Piece number: 30
+Precision: 0.7182274247491639
+Recall: 0.9662542182227222
+F1-measure: 0.8239808153477218
+
+Piece number: 31
+Precision: 0.6062215477996965
+Recall: 0.9603365384615384
+F1-measure: 0.7432558139534884
+
+Piece number: 32
+Precision: 0.6074074074074074
+Recall: 0.8613445378151261
+F1-measure: 0.7124239791485666
+
+Piece number: 33
+Precision: 0.816
+Recall: 0.996742671009772
+F1-measure: 0.8973607038123167
+
+Piece number: 34
+Precision: 0.8599439775910365
+Recall: 0.9475308641975309
+F1-measure: 0.9016152716593245
+
+Piece number: 35
+Precision: 0.8363636363636363
+Recall: 0.9971898835808912
+F1-measure: 0.9097234938655923
+
+Piece number: 36
+Precision: 0.861811391223156
+Recall: 0.9840085287846482
+F1-measure: 0.9188651070184171
+
+Piece number: 37
+Precision: 0.8390075014425851
+Recall: 0.9693333333333334
+F1-measure: 0.8994741725951129
+
+Average precision: 0.7494968183775993
+Average recall: 0.9844513810730239
+Average fmeasure: 0.8482984337762682

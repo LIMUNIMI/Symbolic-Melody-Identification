@@ -1,0 +1,1039 @@
+Using data path: data/solo-accompaniment-dataset/validation/
+Testing with notelists...
+__________________________
+.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/01-dowland/dowland_can_she.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/01-dowland/dowland_come_away.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/01-dowland/dowland_rest_awhile.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/01-dowland/dowland_stay_time.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/02-corelli/cor5n12.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/BWV10343.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bach_emajor_violin.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10201.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10202.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10203.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1025_Allegro.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1025_Courante.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1025_Entree.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1025_Fantasia.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1025_Menuet.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1025_Rondeau.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1025_Sarabande.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10303.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10311.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10313.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1032-2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv1032-3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10331.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10332.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10334.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10342.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10344.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10351.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10352.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/03-bach/bwv10353.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/04-vivaldi/Concerto per flautino2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/06-tartini/taDDur-1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/06-tartini/taDDur-2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/06-tartini/taDDur-3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/06-tartini/taDDur-4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/07-gluck/gluck_sommernacht_cm.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/08-haydn/haydn_das_kleine_haus.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mozart_ABEND_F.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mozart_CHLOE_ES.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mozart_Sehnsucht_F.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mozart_VEILCHEN_G.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mozart_Wiegenlied_F_Dur.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mozart_Zufriedenheit.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mozart_warnung_f.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz296m1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz296m2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz296m3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz376m1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz376m2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz376m3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz377m1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz377m2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz377m3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz378m1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz378m2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz378m3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz379m1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz379m2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz380m1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz380m2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/09-mozart/mz380m3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/10-weber/weber_Wiegenlied.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/10-weber/weber_heimlicher_liebe_pein.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/10-weber/weber_variations_op_33.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_ADWZS_AS.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Abendrot_as.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_An_Silvia_a.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_An_die_Musik_D.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Ave_Maria.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Forelle_des.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Gretchen _d.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_LINDENBAUM.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Musensohn_gdur.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Op25n13.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Pax_vobiscum_f.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Quelle_A.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Schlummerlied_f.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_Schmetterling_f.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_an_die_laute.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_an_einer_quelle.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_der_wanderer_an_den_mond.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_du_bist_die_ruh.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_erntelied_e.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_fischermaedchen_as.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_liebhaber_in_allen_gest.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_minnelied.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n10.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n11.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n12.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n15.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n16.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n5.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n6.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n7.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n8.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op25n9.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op3n4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op5_Erster.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op5_Rastlos.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op5_Thule.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op5_fischer.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op5_naehe.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op62n4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op96n3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_op98n2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_seligkeit.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_seufzer.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/11-schubert/schubert_tod_und_das_maedchen.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/12-beethoven/Beethoven-violin-sonata1-1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/12-beethoven/beethoven_Adelaide.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/12-beethoven/beethoven_Ich liebe dich gdur.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/12-beethoven/beethoven_Mailied.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/12-beethoven/beethoven_die_himmel.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/13-mendelssohn/mendelssohn_fluegel_as.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/13-mendelssohn/mendelssohn_leise_zieht.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op24n1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op25n1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op25n24.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op25n7.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op27n4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op35n3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op35n4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op39n5_mondnacht_e.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op45n2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op48n1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op48n11.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op48n2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op48n3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op48n4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op48n7.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/14-schumann/schumann_op51n2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/15-liszt/liszt_die_glocken_von_marling.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/15-liszt/liszt_wunderbares.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/17-grieg/grieg_an_das_vaterland.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/17-grieg/grieg_solveijgslied.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/18-saint-saens/saint011.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/18-saint-saens/saint012.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/18-saint-saens/saint013.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/18-saint-saens/saint_saens_sonata_4th.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/19-albeniz/tango.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/20-wolf/wolf_anakreon.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/20-wolf/wolf_auf_ein_altes_bild.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/20-wolf/wolf_gesang_weylas.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/21-busoni/bu29m2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/21-busoni/bu29m3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/21-busoni/bu36m1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/re103Nr1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/re103Nr2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/re103Nr3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/re103Nr4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/re103Nr5.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/re103Nr6.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr1.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr10.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr11.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr12.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr3.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr4.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr5.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr6.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr7.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr8.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reBlBlNr9.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/22-reger/reger_glueck_f.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/23-ravel/pavane2.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/24-poulenc/poulenc_sonata_1st.pyc.bz
+I've found a new file: data/solo-accompaniment-dataset/validation/24-poulenc/poulenc_sonata_2nd.pyc.bz
+Piece number: 0
+Precision: 0.23006833712984054
+Recall: 0.34121621621621623
+F1-measure: 0.2748299319727891
+
+Piece number: 1
+Precision: 0.22388059701492538
+Recall: 0.33783783783783783
+F1-measure: 0.2692998204667864
+
+Piece number: 2
+Precision: 0.2192622950819672
+Recall: 0.39194139194139194
+F1-measure: 0.2812089356110381
+
+Piece number: 3
+Precision: 0.22568093385214008
+Recall: 0.35802469135802467
+F1-measure: 0.27684964200477324
+
+Piece number: 4
+Precision: 0.41509433962264153
+Recall: 0.46651785714285715
+F1-measure: 0.4393063583815029
+
+Piece number: 5
+Precision: 0.25
+Recall: 0.3939393939393939
+F1-measure: 0.30588235294117644
+
+Piece number: 6
+Precision: 0.3416865552903739
+Recall: 0.36413734633319206
+F1-measure: 0.3525548943156167
+
+Piece number: 7
+Precision: 0.2734982332155477
+Recall: 0.5536480686695279
+F1-measure: 0.36613055818353835
+
+Piece number: 8
+Precision: 0.23095823095823095
+Recall: 0.5251396648044693
+F1-measure: 0.32081911262798635
+
+Piece number: 9
+Precision: 0.27945060750132067
+Recall: 0.4218500797448166
+F1-measure: 0.3361931998728948
+
+Piece number: 10
+Precision: 0.3300258843830889
+Recall: 0.6450252951096122
+F1-measure: 0.4366438356164384
+
+Piece number: 11
+Precision: 0.4197475202885482
+Recall: 0.5797011207970112
+F1-measure: 0.4869246861924686
+
+Piece number: 12
+Precision: 0.3697916666666667
+Recall: 0.5282738095238095
+F1-measure: 0.43504901960784315
+
+Piece number: 13
+Precision: 0.34492350486787204
+Recall: 0.5688073394495413
+F1-measure: 0.4294372294372294
+
+Piece number: 14
+Precision: 0.4211344211344211
+Recall: 0.5530612244897959
+F1-measure: 0.4781649757388619
+
+Piece number: 15
+Precision: 0.43844367015098723
+Recall: 0.5527086383601757
+F1-measure: 0.4889896373056995
+
+Piece number: 16
+Precision: 0.42568807339449544
+Recall: 0.5918367346938775
+F1-measure: 0.49519743863393806
+
+Piece number: 17
+Precision: 0.39074733096085407
+Recall: 0.5760755508919203
+F1-measure: 0.46564885496183206
+
+Piece number: 18
+Precision: 0.29051383399209485
+Recall: 0.5653846153846154
+F1-measure: 0.38381201044386426
+
+Piece number: 19
+Precision: 0.35049019607843135
+Recall: 0.5098039215686274
+F1-measure: 0.4153957879448075
+
+Piece number: 20
+Precision: 0.3427230046948357
+Recall: 0.4899328859060403
+F1-measure: 0.4033149171270718
+
+Piece number: 21
+Precision: 0.3275862068965517
+Recall: 0.5379388448471121
+F1-measure: 0.4072010287183883
+
+Piece number: 22
+Precision: 0.4467455621301775
+Recall: 0.45209580838323354
+F1-measure: 0.4494047619047619
+
+Piece number: 23
+Precision: 0.3843248347497639
+Recall: 0.4102822580645161
+F1-measure: 0.39687957094100434
+
+Piece number: 24
+Precision: 0.3241279069767442
+Recall: 0.39679715302491103
+F1-measure: 0.3568
+
+Piece number: 25
+Precision: 0.332
+Recall: 0.37986270022883295
+F1-measure: 0.35432230522945574
+
+Piece number: 26
+Precision: 0.30383795309168443
+Recall: 0.3810160427807487
+F1-measure: 0.3380782918149466
+
+Piece number: 27
+Precision: 0.23346303501945526
+Recall: 0.33707865168539325
+F1-measure: 0.27586206896551724
+
+Piece number: 28
+Precision: 0.32184950135992746
+Recall: 0.36004056795131845
+F1-measure: 0.33987553853518426
+
+Piece number: 29
+Precision: 0.244122965641953
+Recall: 0.3409090909090909
+F1-measure: 0.2845100105374078
+
+Piece number: 30
+Precision: 0.5238095238095238
+Recall: 0.5826271186440678
+F1-measure: 0.551654964894684
+
+Piece number: 31
+Precision: 0.2781065088757396
+Recall: 0.34814814814814815
+F1-measure: 0.30921052631578944
+
+Piece number: 32
+Precision: 0.5475460122699386
+Recall: 0.4270334928229665
+F1-measure: 0.47983870967741926
+
+Piece number: 33
+Precision: 0.5069767441860465
+Recall: 0.36824324324324326
+F1-measure: 0.42661448140900193
+
+Piece number: 34
+Precision: 0.6017222820236814
+Recall: 0.5234082397003745
+F1-measure: 0.5598397596394592
+
+Piece number: 35
+Precision: 0.2288135593220339
+Recall: 0.5
+F1-measure: 0.313953488372093
+
+Piece number: 36
+Precision: 0.2
+Recall: 0.3582089552238806
+F1-measure: 0.25668449197860965
+
+Piece number: 37
+Precision: 0.25851197982345525
+Recall: 0.597667638483965
+F1-measure: 0.3609154929577465
+
+Piece number: 38
+Precision: 0.2676864244741874
+Recall: 0.5907172995780591
+F1-measure: 0.368421052631579
+
+Piece number: 39
+Precision: 0.2603648424543947
+Recall: 0.5147540983606558
+F1-measure: 0.3458149779735682
+
+Piece number: 40
+Precision: 0.19141914191419143
+Recall: 0.327683615819209
+F1-measure: 0.2416666666666667
+
+Piece number: 41
+Precision: 0.1934673366834171
+Recall: 0.425414364640884
+F1-measure: 0.2659758203799655
+
+Piece number: 42
+Precision: 0.2715736040609137
+Recall: 0.6149425287356322
+F1-measure: 0.3767605633802817
+
+Piece number: 43
+Precision: 0.20631067961165048
+Recall: 0.38288288288288286
+F1-measure: 0.26813880126182965
+
+Piece number: 44
+Precision: 0.2515850144092219
+Recall: 0.5518331226295828
+F1-measure: 0.34560570071258906
+
+Piece number: 45
+Precision: 0.24835886214442013
+Recall: 0.6135135135135135
+F1-measure: 0.35358255451713394
+
+Piece number: 46
+Precision: 0.39492553778268064
+Recall: 0.6467931345980127
+F1-measure: 0.49041095890410963
+
+Piece number: 47
+Precision: 0.25447227191413235
+Recall: 0.5782520325203252
+F1-measure: 0.35341614906832297
+
+Piece number: 48
+Precision: 0.3303964757709251
+Recall: 0.5649717514124294
+F1-measure: 0.41695621959694235
+
+Piece number: 49
+Precision: 0.27364864864864863
+Recall: 0.49490835030549896
+F1-measure: 0.3524292965917331
+
+Piece number: 50
+Precision: 0.31589147286821706
+Recall: 0.6617050067658998
+F1-measure: 0.4276344556187145
+
+Piece number: 51
+Precision: 0.3548606390210741
+Recall: 0.48378127896200185
+F1-measure: 0.4094117647058823
+
+Piece number: 52
+Precision: 0.08732876712328767
+Recall: 0.3044776119402985
+F1-measure: 0.13572854291417163
+
+Piece number: 53
+Precision: 0.28867998433215825
+Recall: 0.57398753894081
+F1-measure: 0.38415428720354444
+
+Piece number: 54
+Precision: 0.27754677754677753
+Recall: 0.6209302325581395
+F1-measure: 0.3836206896551724
+
+Piece number: 55
+Precision: 0.3357870894677237
+Recall: 0.5983854692230071
+F1-measure: 0.43017772941603194
+
+Piece number: 56
+Precision: 0.1611214953271028
+Recall: 0.4353535353535353
+F1-measure: 0.23519781718963165
+
+Piece number: 57
+Precision: 0.2840023966446974
+Recall: 0.5208791208791209
+F1-measure: 0.36758433501357113
+
+Piece number: 58
+Precision: 0.2862694300518135
+Recall: 0.5858960763520679
+F1-measure: 0.38461538461538464
+
+Piece number: 59
+Precision: 0.23137697516930023
+Recall: 0.4270833333333333
+F1-measure: 0.30014641288433386
+
+Piece number: 60
+Precision: 0.19523809523809524
+Recall: 0.4277198211624441
+F1-measure: 0.26809901914992995
+
+Piece number: 61
+Precision: 0.18357487922705315
+Recall: 0.2111111111111111
+F1-measure: 0.19638242894056848
+
+Piece number: 62
+Precision: 0.4406779661016949
+Recall: 0.43820224719101125
+F1-measure: 0.4394366197183099
+
+Piece number: 63
+Precision: 0.19761775852734165
+Recall: 0.43452380952380953
+F1-measure: 0.27167845180498695
+
+Piece number: 64
+Precision: 0.13022351797862003
+Recall: 0.39880952380952384
+F1-measure: 0.19633699633699633
+
+Piece number: 65
+Precision: 0.1358695652173913
+Recall: 0.2066115702479339
+F1-measure: 0.16393442622950818
+
+Piece number: 66
+Precision: 0.07285714285714286
+Recall: 0.3090909090909091
+F1-measure: 0.11791907514450868
+
+Piece number: 67
+Precision: 0.11470588235294117
+Recall: 0.319672131147541
+F1-measure: 0.16883116883116883
+
+Piece number: 68
+Precision: 0.12003968253968254
+Recall: 0.46360153256704983
+F1-measure: 0.19070133963750985
+
+Piece number: 69
+Precision: 0.14771048744460857
+Recall: 0.5128205128205128
+F1-measure: 0.2293577981651376
+
+Piece number: 70
+Precision: 0.10685920577617329
+Recall: 0.6065573770491803
+F1-measure: 0.18170656844689995
+
+Piece number: 71
+Precision: 0.14627659574468085
+Recall: 0.5365853658536586
+F1-measure: 0.22988505747126436
+
+Piece number: 72
+Precision: 0.14534883720930233
+Recall: 0.3472222222222222
+F1-measure: 0.20491803278688525
+
+Piece number: 73
+Precision: 0.25886524822695034
+Recall: 0.3476190476190476
+F1-measure: 0.2967479674796748
+
+Piece number: 74
+Precision: 0.2
+Recall: 0.21649484536082475
+F1-measure: 0.20792079207920794
+
+Piece number: 75
+Precision: 0.14583333333333334
+Recall: 0.6125
+F1-measure: 0.2355769230769231
+
+Piece number: 76
+Precision: 0.1588785046728972
+Recall: 0.3469387755102041
+F1-measure: 0.21794871794871795
+
+Piece number: 77
+Precision: 0.15384615384615385
+Recall: 0.3977272727272727
+F1-measure: 0.22187004754358164
+
+Piece number: 78
+Precision: 0.16816816816816818
+Recall: 0.4375
+F1-measure: 0.2429501084598699
+
+Piece number: 79
+Precision: 0.21800947867298578
+Recall: 0.3484848484848485
+F1-measure: 0.2682215743440233
+
+Piece number: 80
+Precision: 0.11893203883495146
+Recall: 0.30246913580246915
+F1-measure: 0.17073170731707318
+
+Piece number: 81
+Precision: 0.18805309734513273
+Recall: 0.5862068965517241
+F1-measure: 0.2847571189279732
+
+Piece number: 82
+Precision: 0.2727272727272727
+Recall: 0.45
+F1-measure: 0.339622641509434
+
+Piece number: 83
+Precision: 0.12684365781710916
+Recall: 0.25748502994011974
+F1-measure: 0.16996047430830039
+
+Piece number: 84
+Precision: 0.2
+Recall: 0.49645390070921985
+F1-measure: 0.28513238289205706
+
+Piece number: 85
+Precision: 0.29304029304029305
+Recall: 0.5333333333333333
+F1-measure: 0.3782505910165485
+
+Piece number: 86
+Precision: 0.18704156479217604
+Recall: 0.478125
+F1-measure: 0.2688927943760984
+
+Piece number: 87
+Precision: 0.18233082706766918
+Recall: 0.4217391304347826
+F1-measure: 0.2545931758530184
+
+Piece number: 88
+Precision: 0.21515892420537897
+Recall: 0.49299719887955185
+F1-measure: 0.2995744680851064
+
+Piece number: 89
+Precision: 0.24151696606786427
+Recall: 0.44814814814814813
+F1-measure: 0.3138780804150454
+
+Piece number: 90
+Precision: 0.19940476190476192
+Recall: 0.5982142857142857
+F1-measure: 0.29910714285714285
+
+Piece number: 91
+Precision: 0.0825515947467167
+Recall: 0.34375
+F1-measure: 0.13313161875945537
+
+Piece number: 92
+Precision: 0.20520833333333333
+Recall: 0.6024464831804281
+F1-measure: 0.3061383061383061
+
+Piece number: 93
+Precision: 0.12482065997130559
+Recall: 0.58
+F1-measure: 0.20543093270365995
+
+Piece number: 94
+Precision: 0.22839506172839505
+Recall: 0.5068493150684932
+F1-measure: 0.31489361702127655
+
+Piece number: 95
+Precision: 0.1944055944055944
+Recall: 0.5091575091575091
+F1-measure: 0.2813765182186235
+
+Piece number: 96
+Precision: 0.19090909090909092
+Recall: 0.4540540540540541
+F1-measure: 0.2688
+
+Piece number: 97
+Precision: 0.11556383970177074
+Recall: 0.3924050632911392
+F1-measure: 0.1785457163426926
+
+Piece number: 98
+Precision: 0.27601809954751133
+Recall: 0.48221343873517786
+F1-measure: 0.3510791366906475
+
+Piece number: 99
+Precision: 0.24330357142857142
+Recall: 0.42745098039215684
+F1-measure: 0.31009957325746795
+
+Piece number: 100
+Precision: 0.21708185053380782
+Recall: 0.4485294117647059
+F1-measure: 0.29256594724220625
+
+Piece number: 101
+Precision: 0.22962962962962963
+Recall: 0.3563218390804598
+F1-measure: 0.27927927927927926
+
+Piece number: 102
+Precision: 0.13286713286713286
+Recall: 0.7421875
+F1-measure: 0.22538552787663105
+
+Piece number: 103
+Precision: 0.22131147540983606
+Recall: 0.3016759776536313
+F1-measure: 0.2553191489361702
+
+Piece number: 104
+Precision: 0.17773788150807898
+Recall: 0.4342105263157895
+F1-measure: 0.2522292993630573
+
+Piece number: 105
+Precision: 0.11170212765957446
+Recall: 0.336
+F1-measure: 0.16766467065868262
+
+Piece number: 106
+Precision: 0.141643059490085
+Recall: 0.44642857142857145
+F1-measure: 0.21505376344086025
+
+Piece number: 107
+Precision: 0.14414414414414414
+Recall: 0.25806451612903225
+F1-measure: 0.18497109826589597
+
+Piece number: 108
+Precision: 0.2
+Recall: 0.36879432624113473
+F1-measure: 0.25935162094763087
+
+Piece number: 109
+Precision: 0.189873417721519
+Recall: 0.4807692307692308
+F1-measure: 0.2722323049001815
+
+Piece number: 110
+Precision: 0.16145833333333334
+Recall: 0.7045454545454546
+F1-measure: 0.2627118644067797
+
+Piece number: 111
+Precision: 0.0880503144654088
+Recall: 0.2028985507246377
+F1-measure: 0.12280701754385966
+
+Piece number: 112
+Precision: 0.27784395473496126
+Recall: 0.57663782447466
+F1-measure: 0.37499999999999994
+
+Piece number: 113
+Precision: 0.16989966555183947
+Recall: 0.5920745920745921
+F1-measure: 0.26403326403326405
+
+Piece number: 114
+Precision: 0.22916666666666666
+Recall: 0.5038167938931297
+F1-measure: 0.315035799522673
+
+Piece number: 115
+Precision: 0.22291666666666668
+Recall: 0.4349593495934959
+F1-measure: 0.2947658402203857
+
+Piece number: 116
+Precision: 0.14285714285714285
+Recall: 0.2
+F1-measure: 0.16666666666666666
+
+Piece number: 117
+Precision: 0.2033678756476684
+Recall: 0.7772277227722773
+F1-measure: 0.3223819301848049
+
+Piece number: 118
+Precision: 0.15343915343915343
+Recall: 0.5370370370370371
+F1-measure: 0.23868312757201646
+
+Piece number: 119
+Precision: 0.19886363636363635
+Recall: 0.5384615384615384
+F1-measure: 0.2904564315352697
+
+Piece number: 120
+Precision: 0.14256198347107438
+Recall: 0.46
+F1-measure: 0.21766561514195581
+
+Piece number: 121
+Precision: 0.1258741258741259
+Recall: 0.32727272727272727
+F1-measure: 0.18181818181818185
+
+Piece number: 122
+Precision: 0.15568862275449102
+Recall: 0.2549019607843137
+F1-measure: 0.1933085501858736
+
+Piece number: 123
+Precision: 0.18461538461538463
+Recall: 0.631578947368421
+F1-measure: 0.2857142857142857
+
+Piece number: 124
+Precision: 0.16777041942604856
+Recall: 0.25165562913907286
+F1-measure: 0.20132450331125826
+
+Piece number: 125
+Precision: 0.14516129032258066
+Recall: 0.36363636363636365
+F1-measure: 0.207492795389049
+
+Piece number: 126
+Precision: 0.12846347607052896
+Recall: 0.5425531914893617
+F1-measure: 0.20773930753564154
+
+Piece number: 127
+Precision: 0.13805970149253732
+Recall: 0.27611940298507465
+F1-measure: 0.18407960199004977
+
+Piece number: 128
+Precision: 0.23039215686274508
+Recall: 0.7580645161290323
+F1-measure: 0.3533834586466166
+
+Piece number: 129
+Precision: 0.20967741935483872
+Recall: 0.4482758620689655
+F1-measure: 0.2857142857142857
+
+Piece number: 130
+Precision: 0.28169014084507044
+Recall: 0.3448275862068966
+F1-measure: 0.31007751937984496
+
+Piece number: 131
+Precision: 0.275
+Recall: 0.4631578947368421
+F1-measure: 0.34509803921568627
+
+Piece number: 132
+Precision: 0.19298245614035087
+Recall: 0.3548387096774194
+F1-measure: 0.24999999999999994
+
+Piece number: 133
+Precision: 0.10247349823321555
+Recall: 0.26126126126126126
+F1-measure: 0.14720812182741116
+
+Piece number: 134
+Precision: 0.19607843137254902
+Recall: 0.30612244897959184
+F1-measure: 0.23904382470119523
+
+Piece number: 135
+Precision: 0.09117647058823529
+Recall: 0.2980769230769231
+F1-measure: 0.13963963963963963
+
+Piece number: 136
+Precision: 0.2807017543859649
+Recall: 0.42105263157894735
+F1-measure: 0.3368421052631579
+
+Piece number: 137
+Precision: 0.14953271028037382
+Recall: 0.35555555555555557
+F1-measure: 0.2105263157894737
+
+Piece number: 138
+Precision: 0.3295774647887324
+Recall: 0.4448669201520912
+F1-measure: 0.3786407766990292
+
+Piece number: 139
+Precision: 0.2536842105263158
+Recall: 0.4235500878734622
+F1-measure: 0.3173140223831468
+
+Piece number: 140
+Precision: 0.3781869688385269
+Recall: 0.4635416666666667
+F1-measure: 0.4165366614664586
+
+Piece number: 141
+Precision: 0.18456375838926176
+Recall: 0.36423841059602646
+F1-measure: 0.24498886414253898
+
+Piece number: 142
+Precision: 0.2582513028372901
+Recall: 0.433852140077821
+F1-measure: 0.32377495462794914
+
+Piece number: 143
+Precision: 0.3487544483985765
+Recall: 0.4537037037037037
+F1-measure: 0.39436619718309857
+
+Piece number: 144
+Precision: 0.18181818181818182
+Recall: 0.4578313253012048
+F1-measure: 0.26027397260273977
+
+Piece number: 145
+Precision: 0.11382113821138211
+Recall: 0.25
+F1-measure: 0.1564245810055866
+
+Piece number: 146
+Precision: 0.11320754716981132
+Recall: 0.1791044776119403
+F1-measure: 0.13872832369942198
+
+Piece number: 147
+Precision: 0.24882629107981222
+Recall: 0.38875305623471884
+F1-measure: 0.3034351145038168
+
+Piece number: 148
+Precision: 0.19228118538938663
+Recall: 0.4521880064829822
+F1-measure: 0.26982591876208895
+
+Piece number: 149
+Precision: 0.28344319503683596
+Recall: 0.49660326086956524
+F1-measure: 0.36089854356948897
+
+Piece number: 150
+Precision: 0.29850746268656714
+Recall: 0.39215686274509803
+F1-measure: 0.3389830508474576
+
+Piece number: 151
+Precision: 0.15210084033613444
+Recall: 0.24625850340136055
+F1-measure: 0.18805194805194805
+
+Piece number: 152
+Precision: 0.19886363636363635
+Recall: 0.32558139534883723
+F1-measure: 0.24691358024691357
+
+Piece number: 153
+Precision: 0.13241379310344828
+Recall: 0.4897959183673469
+F1-measure: 0.20846905537459284
+
+Piece number: 154
+Precision: 0.19347037484885127
+Recall: 0.3036053130929791
+F1-measure: 0.23633677991137372
+
+Piece number: 155
+Precision: 0.270985401459854
+Recall: 0.4790322580645161
+F1-measure: 0.3461538461538461
+
+Piece number: 156
+Precision: 0.1631578947368421
+Recall: 0.36904761904761907
+F1-measure: 0.22627737226277372
+
+Piece number: 157
+Precision: 0.25
+Recall: 0.37916666666666665
+F1-measure: 0.30132450331125826
+
+Piece number: 158
+Precision: 0.23579545454545456
+Recall: 0.4322916666666667
+F1-measure: 0.30514705882352944
+
+Piece number: 159
+Precision: 0.26875
+Recall: 0.3006993006993007
+F1-measure: 0.2838283828382838
+
+Piece number: 160
+Precision: 0.17345597897503284
+Recall: 0.5196850393700787
+F1-measure: 0.26009852216748763
+
+Piece number: 161
+Precision: 0.2430167597765363
+Recall: 0.39545454545454545
+F1-measure: 0.30103806228373703
+
+Piece number: 162
+Precision: 0.26573426573426573
+Recall: 0.4
+F1-measure: 0.31932773109243695
+
+Piece number: 163
+Precision: 0.2784090909090909
+Recall: 0.30246913580246915
+F1-measure: 0.2899408284023669
+
+Piece number: 164
+Precision: 0.3125
+Recall: 0.4497354497354497
+F1-measure: 0.36876355748373096
+
+Piece number: 165
+Precision: 0.40046838407494145
+Recall: 0.4253731343283582
+F1-measure: 0.41254523522316044
+
+Piece number: 166
+Precision: 0.2123076923076923
+Recall: 0.32547169811320753
+F1-measure: 0.2569832402234637
+
+Piece number: 167
+Precision: 0.23148148148148148
+Recall: 0.32751091703056767
+F1-measure: 0.27124773960216997
+
+Piece number: 168
+Precision: 0.18840579710144928
+Recall: 0.2765957446808511
+F1-measure: 0.2241379310344828
+
+Piece number: 169
+Precision: 0.194675540765391
+Recall: 0.4006849315068493
+F1-measure: 0.2620380739081747
+
+Piece number: 170
+Precision: 0.26140684410646386
+Recall: 0.5646817248459959
+F1-measure: 0.35737491877842753
+
+Piece number: 171
+Precision: 0.15196078431372548
+Recall: 0.42758620689655175
+F1-measure: 0.22423146473779385
+
+Average precision: 0.23690285333417666
+Average recall: 0.4425544699235047
+Average fmeasure: 0.29856313691704117

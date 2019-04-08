@@ -1,0 +1,7 @@
+*.pyc
+tags
+__pycache__
+.ropeproject
+.ipynb_checkpoints
+solo-accompaniment-dataset
+**/tags
