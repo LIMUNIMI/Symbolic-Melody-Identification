@@ -6,7 +6,6 @@ Simply launch it without arguments to get this help.
 A few examples:
 * Train over all files with extension `.ext` in `mydirectory` using hyper-parameters
   contained in `parameters.json` (saves kernels to a pickle object):
-
 > `./terminal_client.py --train mydirectory .ext parameters.json`
 
 * Use the kernels saved in `kernels.pkl` to compile a model for your architecture:
