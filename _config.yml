@@ -12,3 +12,5 @@ menu:
     url: /data/
   - title: "Inspection"
     url: /inspection/
+  - title: "Usage"
+    url: /usage/
