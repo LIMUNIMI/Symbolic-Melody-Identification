@@ -1,3 +1,0 @@
-[submodule "data/complete-dataset"]
-	path = data/complete-dataset
-	url = https://github.com/2019paper/Solo-Accompaniment-Dataset.git
