@@ -10,6 +10,7 @@ to detect almost all the melody notes, in second one, instead, it fails. It is n
 note how the introduction is predicted correctly.
 
 **_Gluck - Die Sommernacht_**
+
 The original one:
 
 sounds/gluck_sommernacht_cm.original.mp3
@@ -19,6 +20,7 @@ The prediction made by the model trained on the Mozart dataset:
 sounds/gluck_sommernacht_cm.mp3
 
 **_Liszt - Die Glocken Von Marling_**
+
 The original one:
 
 sounds/liszt_die_glocken_von_marling.original.mp3

@@ -5,3 +5,4 @@ __pycache__
 .ipynb_checkpoints
 solo-accompaniment-dataset
 **/tags
+data/complete-dataset

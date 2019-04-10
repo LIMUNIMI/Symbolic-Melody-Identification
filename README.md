@@ -36,10 +36,10 @@ Full paper: [link]
 The method starts from a score and tries to identify the notes belonging to the melody.
 
 Starting from here 
-![Liszt](liszt_die_glocken_von_marling.png)
+![Sor](./sor-op35n22.png)
 
 it attempts to output this
-![Liszt melody](liszt_die_glocken_von_marling-melody.png)
+![Sor Melody](./sor-op35n22-melody.png)
 
 To achieve that, we use a Convolutional Neural Network and a graph approach. First, the score is converted into a Boolean pianoroll; then, the pianoroll is processed by the CNN whose output is a new pianoroll where each pixel has a probability value of being a part of the melody. Based on this probabilities, we can reconstruct the melody line.
 
