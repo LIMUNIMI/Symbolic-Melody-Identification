@@ -53,8 +53,6 @@ Please, cite us as:
 
 ## Acknowledgemnts
 
-_This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 670035 (project "Con Espressione").
-
-We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan V GPU used for this research.
-
-We thank Elaine Chew for sharing the code for VoSA. We thank Laura Bishop for proofreading an earlier version of this manuscript._
+_This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 670035 (project "Con Espressione")._
+_We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan V GPU used for this research._
+_We thank Elaine Chew for sharing the code for VoSA. We thank Laura Bishop for proofreading an earlier version of this manuscript._
