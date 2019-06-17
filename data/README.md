@@ -1,20 +1,15 @@
 # DATASETS
 From the paper:
-
->   We used three different datasets to evaluate the performances of our method.
->
->   The first dataset consists of 38 movements from Mozart piano Sonatas, with most salient
->   melody manually annotated.
->
->   The second dataset consists of 83 pop songs, where the singer part was considered to be
->   the main one. Note that this makes difficult to identify instrumental part from the
->   symbolic data without the knowledge of tracks.
->
->   Finally, the third dataset consists of 169 pieces ranging from the English Renaissance
->   of John Dowland to the 20th century music by Francis Poulenc. All of these pieces are for a
->   solo instrument and accompaniment; typical solo instruments are voice, flute, violin and
->   clarinet, while typical accompaniment instruments are strings and piano. The solo instrument
->   was considered as main part.
+>  We used three different datasets to evaluate the performances of our method.
+>  The first dataset (``Mozart'') consists of $38$ movements from (13) Mozart Piano Sonatas, for which the main melody line was annotated manually by a professional pianist.
+>  The second dataset (``Pop'') consists of $83$ popular songs (including pop and jazz).
+>  We used the vocal part of these songs as the melody line, and treated them as though they were compressed onto a single track (identifying the main track in multi-track music is a separate question, see~\cite{HUANG2010,Martin2009, Li2009, Friberg2009}).
+>  These datasets were used for training and testing.
+>  A third dataset (``Web''), used only for testing, comprises MIDI files crawled from the web.
+>  This dataset includes $169$ Western art music compositions from the late 16th to the early 20th centuries.
+>  All of these pieces included a solo instrument (typically voice, flute, violin or clarinet) and accompaniment (typically strings or piano).
+>  The first and third of these datasets are publicly available for research purposes in the companion site -- see footnote 1.
+>  We do not have distribution rights for the second dataset, which was professionally curated and annotated, but we provide the full list of pieces.
 
 The full list of the pieces contained in the datasets is available here, alongside to the
 datasets themselves.

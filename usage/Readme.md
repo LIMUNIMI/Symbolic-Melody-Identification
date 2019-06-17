@@ -17,7 +17,7 @@ A few examples:
 
 * Inspect the 10th window of file `input.mid` and saves all the 30.000 thousands
   inspection windows:
-> `./terminal_client.py --inspect inpu.mid 10`
+> `./terminal_client.py --inspect input.mid 10`
 
 ```
 usage: ./terminal_client.py [-h] [--extract INPUT OUTPUT]
