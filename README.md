@@ -51,14 +51,15 @@ We show that our method is better than sate-of-art, but that further effort is n
 
 ## References
 Please, cite us as:
->   Federico Simonetta, Carlos Cancino-Chacón, Stavros Ntalampiras & Gerhard Widmer. (2019). "A Convolutional Approach to Melody Line Identification in Symbolic Scores". In _Proceedings of the 20th International Society for Music Information Retrieval Conference_. Delft, The Netherlands.
+
+Federico Simonetta, Carlos Cancino-Chacón, Stavros Ntalampiras & Gerhard Widmer. (2019). "A Convolutional Approach to Melody Line Identification in Symbolic Scores". In _Proceedings of the 20th International Society for Music Information Retrieval Conference_. Delft, The Netherlands.
 
 ## Acknowledgemnts
 
-_This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 670035 (project "Con Espressione")._
+> This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 670035 (project "Con Espressione").
 
 ![ERC logo](./1.jpg)
 
-_We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan V GPU used for this research._
+> We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan V GPU used for this research.
 
-_We thank Elaine Chew for sharing the code for VoSA. We thank Laura Bishop for proofreading an earlier version of this manuscript._
+> We thank Elaine Chew for sharing the code for VoSA. We thank Laura Bishop for proofreading an earlier version of this manuscript.
