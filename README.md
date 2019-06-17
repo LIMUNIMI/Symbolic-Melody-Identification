@@ -5,6 +5,8 @@ melody identification in symbolic scores. You can surf this website, view and cl
 [github](https://github.com/ofai/Symbolic-Melody-Identification) or download the entire
 [archive](https://github.com/ofai/Symbolic-Melody-Identification/tarball/master)
 
+A work by [OFAI - Austrian Research Institute for Artificial Intelligence](http://ofai.at/) & [LIM - Music Informatics Laboratory](https://www.lim.di.unimi.it/)
+
 ## Abstract
 In many musical traditions, the melody line is of primary
 significance in a piece. Human listeners can readily distinguish
@@ -54,6 +56,8 @@ Please, cite us as:
 ## Acknowledgemnts
 
 _This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 670035 (project "Con Espressione")._
+
+![ERC logo](./1.jpg)
 
 _We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan V GPU used for this research._
 
