@@ -54,7 +54,7 @@ Please, cite us as:
 
 Federico Simonetta, Carlos Cancino-Chacón, Stavros Ntalampiras & Gerhard Widmer. (2019). "A Convolutional Approach to Melody Line Identification in Symbolic Scores". In _Proceedings of the 20th International Society for Music Information Retrieval Conference_. Delft, The Netherlands.
 
-## Acknowledgemnts
+## Acknowledgments
 
 _This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 670035 (project "Con Espressione")._
 
