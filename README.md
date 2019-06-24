@@ -2,8 +2,8 @@
 This repository contains the code, the results and the datasets used for the work
 presented at the ISMIR 2019 about an approach for using Convolutional Neural Networks for
 melody identification in symbolic scores. You can surf this website, view and clone it on
-[github](https://github.com/ofai/Symbolic-Melody-Identification) or download the entire
-[archive](https://github.com/ofai/Symbolic-Melody-Identification/tarball/master)
+[github](https://github.com/limunimi/Symbolic-Melody-Identification) or download the entire
+[archive](https://github.com/limunimi/Symbolic-Melody-Identification/tarball/master)
 
 A work by [OFAI - Austrian Research Institute for Artificial Intelligence](http://ofai.at/) & [LIM - Music Informatics Laboratory](https://www.lim.di.unimi.it/)
 
