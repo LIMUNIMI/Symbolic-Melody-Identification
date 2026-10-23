@@ -58,6 +58,10 @@ Federico Simonetta, Carlos Cancino-Chacón, Stavros Ntalampiras & Gerhard Widmer
 
 _This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 670035 (project "Con Espressione")._
 
+## License
+
+- The code in this repository is released under [MIT](https://raw.githubusercontent.com/LIMUNIMI/Symbolic-Melody-Identification/refs/heads/master/LICENSE) License.
+- The pkl model files are released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) License.
 ![ERC logo](./1.jpg)
 _We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan V GPU used for this research._
 
